@@ -1,4 +1,4 @@
-WEB APPLICATIONS
+<bold>WEB APPLICATIONS</bold>
 These are mostly small projects that I coded to learn the functionality of ASP.NET, .NET FRAMEWORK and the Entity Framkework.
 
 NEWLETTERAPP: This is a basic MVC WEB APP writen with c#. it intakes contact info and organizes it into a list of contacts. It uses Razor syntax to put all input into a database.
